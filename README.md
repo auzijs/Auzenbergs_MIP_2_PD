@@ -1,2 +1,1 @@
-# Auzenbergs_MIP_2_PD
-Auzenbergs_MIP_2_PD
+RTU kursā "Māsklīgie intelekta pamati" 2. praktiskajam darbam nepieciešamā datu kopa un orange ows fails.
